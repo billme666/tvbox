@@ -13,6 +13,9 @@
 
 {"key": "豆瓣","name": "江湖路漫漫-有缘再会","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 {"key": "345看片","name": "345看片","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/345看片.js"},
+{"key":"csp_WoGG","name":"👽玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./tvbox/tok.txt+4k|auto|fhd"},
+
+
 
 {"key": "萌猫","name": "萌猫|video","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"},
 
